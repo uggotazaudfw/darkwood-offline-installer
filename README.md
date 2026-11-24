@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Darkwood - a new perspective on survival horror. Scavenge and explore a rich, ever-changing free-roam world by day, then hunker down in your hideout and pray for the morning light.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | Windows® 10 (64-bit) | macOS 12 (Monterey) or later |
+| **Processor** | Min: Intel® Core™ i3-2100 (dual-core) / AMD® Phenom™ II X2 5… / Rec: Intel® Core™ i5-2400 (quad-core) / AMD® FX-Series™ FX-4… | Intel® Core™ i3-2100 (dual-core) / AMD® Phenom™ II X2 5… |
+| **Memory** | Min: 4 GB RAM / Rec: 8 GB RAM | 4 GB RAM |
+| **Graphics** | Min: NVIDIA® GeForce® GTX 460 (1 GB) / AMD® Radeon™ HD 5770 … / Rec: NVIDIA® GeForce® GT 660 (2 GB) / AMD® Radeon™ HD 7870 (… | NVIDIA® GeForce® GTX 460 (1 GB) / AMD® Radeon™ HD 5770 … |
+| **Storage** | 10 GB available space | 10 GB available space |
 
 ---
 
